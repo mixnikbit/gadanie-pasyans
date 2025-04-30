@@ -1,0 +1,32 @@
+
+body {
+  font-family: 'Rubik', sans-serif;
+  background: linear-gradient(to right, #f5f0e1, #e3d5f5);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.container {
+  padding: 40px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1.1em;
+  background-color: #7b5fe0;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#card-container img {
+  max-width: 300px;
+  margin: 20px;
+}
+#card-container p {
+  max-width: 80%;
+  margin: auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
